@@ -1,3 +1,21 @@
+I am using this code for deplyiong the fronend and backend applications in containers
+Employee management system
+Client - Frontend - ReactJS
+Server - Backend  - SpringBoot
+Database - MySQL
+
+Create a database on mysql
+CREATE DATABASE employee_management_system;
+
+When hit with an error - export the following variable
+export NODE_OPTIONS=--openssl-legacy-provider
+npm audit fix --force
+
+Start the application with one of the following commands
+npm start
+yarn start
+
+
 # ReactJS-Spring-Boot-CRUD-Full-Stack-App - Course on YouTube
 
 #### ReactJS + Spring Boot CRUD Full Stack App - 1 - Project Overview
